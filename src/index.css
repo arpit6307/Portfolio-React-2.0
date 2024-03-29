@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&family=Raleway:wght@400;700;900&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  html{
+    font-family: 'Raleway', sans-serif;
+  }
+  h1{
+    font-family: 'Baloo Bhaina 2', cursive;
+  }
+  h2{
+    font-family: 'Itim', cursive;
+  }
+  p{
+    font-family: 'Itim', cursive;
+  }
+}
