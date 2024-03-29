@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react'
 import Sandesh from '../assets/projects/portfolio.png'
-import Gist from '../assets/projects/Happy Valentine Day project 1.png'
+import Gist from '../assets/projects/'
 import Chatbot from '../assets/projects/3d card.png'
 import Ide from '../assets/projects/clock p2.png'
 import ShopEasy from '../assets/projects/Typing Test.png'
@@ -17,7 +17,7 @@ const Projects = () => {
     {
       id: 1,
       src: Sandesh,
-      desc: "Portfolio React 1.0",
+      desc: "React Portfolio 1.0",
       demo: "https://portfolio-react-js-alpha.vercel.app/",
       code: "https://github.com/arpit080/Portfolio-React-js"
     },
@@ -52,9 +52,9 @@ const Projects = () => {
     {
       id: 6,
       src: Gist,
-      desc: "Happy Valentine's Day project 1",
-      demo: "https://happy-valentine-s-day-project-1.vercel.app/",
-      code: "https://github.com/arpit080?tab=repositories"
+      desc: "React Portfolio 2.0",
+      demo: "https://portfolio-react-2-0-mauve.vercel.app/",
+      code: "https://github.com/arpit080/Portfolio-React-2.0"
     },
   ]
 
