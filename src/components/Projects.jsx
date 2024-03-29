@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react'
 import Sandesh from '../assets/projects/portfolio.png'
-import Gist from '../assets/projects/'
+import Gist from '../assets/projects/Portfolio 2.0.png'
 import Chatbot from '../assets/projects/3d card.png'
 import Ide from '../assets/projects/clock p2.png'
 import ShopEasy from '../assets/projects/Typing Test.png'
