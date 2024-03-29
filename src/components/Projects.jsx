@@ -1,7 +1,7 @@
 import React,{useEffect} from 'react'
 import Sandesh from '../assets/projects/portfolio.png'
 import Gist from '../assets/projects/Portfolio 2.0.png'
-import Chatbot from '../assets/projects/3d card.png'
+import Chatbot from '../assets/projects/calling jadoo.png'
 import Ide from '../assets/projects/clock p2.png'
 import ShopEasy from '../assets/projects/Typing Test.png'
 import Upscale from '../assets/projects/For My Love.png'
@@ -31,9 +31,9 @@ const Projects = () => {
     {
       id: 3,
       src: Chatbot,
-      desc: "3D Card ",
-      demo: "https://3-d-card-chi.vercel.app/",
-      code: "https://github.com/arpit080/3D-Card"
+      desc: "Calling Jadoo by HTML,CSS and JS",
+      demo: "https://calling-jadoo-in-2024-lyart.vercel.app/",
+      code: "https://github.com/arpit080/Calling-jadoo-in-2024"
     },
     {
       id: 4,
